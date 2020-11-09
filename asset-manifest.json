@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fora/static/css/main.7a5af4dd.chunk.css",
+    "main.js": "/fora/static/js/main.7efc0125.chunk.js",
+    "main.js.map": "/fora/static/js/main.7efc0125.chunk.js.map",
+    "runtime-main.js": "/fora/static/js/runtime-main.47201750.js",
+    "runtime-main.js.map": "/fora/static/js/runtime-main.47201750.js.map",
+    "static/js/2.1a7af06e.chunk.js": "/fora/static/js/2.1a7af06e.chunk.js",
+    "static/js/2.1a7af06e.chunk.js.map": "/fora/static/js/2.1a7af06e.chunk.js.map",
+    "index.html": "/fora/index.html",
+    "static/css/main.7a5af4dd.chunk.css.map": "/fora/static/css/main.7a5af4dd.chunk.css.map",
+    "static/js/2.1a7af06e.chunk.js.LICENSE.txt": "/fora/static/js/2.1a7af06e.chunk.js.LICENSE.txt",
+    "static/media/basketball.90b2c0f4.jpg": "/fora/static/media/basketball.90b2c0f4.jpg",
+    "static/media/chess.b9ed2b12.jpg": "/fora/static/media/chess.b9ed2b12.jpg",
+    "static/media/concert.82ad2b76.jpg": "/fora/static/media/concert.82ad2b76.jpg",
+    "static/media/girl.124bf85b.jpg": "/fora/static/media/girl.124bf85b.jpg",
+    "static/media/man.a493fb0e.jpg": "/fora/static/media/man.a493fb0e.jpg",
+    "static/media/musics.02c1e787.jpg": "/fora/static/media/musics.02c1e787.jpg",
+    "static/media/red.250e5d90.jpg": "/fora/static/media/red.250e5d90.jpg",
+    "static/media/relax.e8f2cb1a.jpg": "/fora/static/media/relax.e8f2cb1a.jpg",
+    "static/media/tablecof.62e33996.jpg": "/fora/static/media/tablecof.62e33996.jpg",
+    "static/media/tabletwood.fda33295.jpg": "/fora/static/media/tabletwood.fda33295.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47201750.js",
+    "static/js/2.1a7af06e.chunk.js",
+    "static/css/main.7a5af4dd.chunk.css",
+    "static/js/main.7efc0125.chunk.js"
+  ]
+}
